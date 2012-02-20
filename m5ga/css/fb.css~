@@ -1,0 +1,8 @@
+#facebooklike{
+left: 5px;
+top: 10px;
+padding: 5px;
+position: absolute;
+z-index: 1;
+max-width: 292px;
+}

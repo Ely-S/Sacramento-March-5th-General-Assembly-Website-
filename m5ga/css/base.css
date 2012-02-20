@@ -1,0 +1,64 @@
+/*
+
+HTML Framework 
+Version 0.1 Beta, July 14, 2009
+Author: JD Graffam, http://jdgraffam.com/
+Source: http://htmlframework.com/
+Documentation: http://htmlframework.com/documentation.html
+
+*/
+
+/* Typography
+--------------------------------------------------------- */
+body{
+	font-family:verdana, sans-serif;
+	font-size:11px;
+	line-height:20px;
+	}
+	
+/* Site Styles
+--------------------------------------------------------- */
+html{
+	background:#EEE;
+	}
+	
+	body{
+		background:#DDD;
+		padding:10px 0;
+		}
+		
+		#header,
+		#navigation,
+		#content,
+		#footer{
+			background:#CCC;
+			margin-bottom:10px;
+			padding-top:10px;
+			border-top:3px solid #000;
+			border-bottom:1px solid #000;
+			}
+		
+			#navigation a{
+				background:#AAA;
+				}
+				
+				#navigation a:hover{
+					background:#999;
+					}
+		
+		#header .brand,
+		#header .accessibility,
+		#navigation ul,
+		#content .primary,
+		#content .misc,
+		#footer .copyright,
+		#footer .meta{
+			background:#BBB;
+			margin-bottom:10px;
+			overflow:hidden;
+			}
+
+		#footer{
+			margin-bottom:0;
+			margin-top:10px;
+			} 

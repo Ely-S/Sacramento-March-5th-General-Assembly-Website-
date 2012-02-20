@@ -1,0 +1,100 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+
+	
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>March 5fth General Assembly</title>
+		
+		<meta name="description" content="#">
+		<meta name="keywords" content="#">
+		<meta name="author" content="Eli" >
+
+		<link rel="stylesheet" type="text/css" media="print" href="css/reset.css">
+		<link rel="stylesheet" type="text/css" media="print" href="css/print.css"><!--[if IE]>
+			<link rel="stylesheet" type="text/css" media="screen, projection" href="css/ie.css" />
+		<![endif]--><!--[if IE 6]>
+			<link rel="stylesheet" type="text/css" media="screen, projection" href="css/ie6.css" />
+		<![endif]--><!--[if IE 7]>
+			<link rel="stylesheet" type="text/css" media="screen, projection" href="css/ie7.css" />
+		<![endif]--><!--[if IE 8]>
+			<link rel="stylesheet" type="text/css" media="screen, projection" href="css/ie8.css" />
+		<![endif]-->
+		
+		
+		<link rel="shortcut icon" type="image/ico" href="favicon.ico">
+		<style type='text/css'>
+#about {
+-moz-border-radius: 10px;
+border-radius: 10px;
+width:630px;
+background-color: white;
+padding: 20px;
+margin-top: 50px;
+}
+#piratepad{
+background-color: white;
+padding: 10px;
+margin-top: 50px;
+-moz-border-radius: 10px;
+border-radius: 10px;
+width: 905px;
+}
+body{
+
+background-image: url('img/back.jpg');
+}
+
+img
+{
+opacity:1.0;
+filter:alpha(opacity=40); /* For IE8 and earlier */
+}
+img:hover
+{
+opacity:0.6;
+filter:alpha(opacity=100); /* For IE8 and earlier */
+}
+		</style>		
+		</head>
+<body>
+<center>
+<div id='about'>
+<br/>
+<a href="/"><img style="width: 624px; height: 99px;" src="http://www.occupytogether.org/posters/OT_Bnr1.jpg"></a>
+<h1>The 1st Annual March 5th Sacramento General Assembly</h1>
+<p>On March Fifth, students from all over California will converge on Sacramento to
+protest budget cuts. We will come by the bus-load
+from miles away to stand up for our right to education. When we
+get there, we will listen to speakers, rally and go home That is what
+we do every year, but that is a waste. Thousands of students
+from all over the state will be there united as one and all we'll do is
+listen to speakers who've already graduated complain about budget
+cuts that don't affect them. So just as a small, brave group of people broke off from
+the main protest at Zuccotti Park to hold assembly, so shall we.
+Let us create something lasting.  We shall  Let us declare the 1st Annual
+March 5th Great Sacramento General Assembly.
+<p>
+This website is here to flesh out the idea and to plan the details.
+</p>
+</p>
+</div>
+<div id='piratepad'>
+<p>
+This is a live view of the details.
+<br/>
+To suggest an idea, please submit it in a comment.
+</p>
+<iframe src="http://piratepad.net/ep/pad/view/ro.tznju2FPyE/latest" name="frame1" align="middle" frameborder="no" height="600" scrolling="auto" width="905">
+Your browser does not support Iframes or they are turned off.
+</iframe>
+</div>
+<br>
+<br>
+<a href="http://www.occupytogether.org/" target="_blank"><img style="width: 624px; height: 99px;" src="http://www.occupytogether.org/posters/OT_Bnr1.jpg"></a>
+<br>
+contact @
+<br>
+</div>
+</center>
+</body>
+</html>
