@@ -74,7 +74,7 @@ padding: 8px;
   <center>
 
 <div id='about' class='wborder'>
-<a href="http://m5ga.staticloud.com/"><img style="width: 624px; height: 99px;" src="OT_Bnr1.jpg"></a>
+<a href="http://m5ga.staticloud.com/"><img style="width: 624px; height: 99px;" src="http://www.occupytogether.org/posters/OT_Bnr1.jpg"></a>
 <h1 title="be there!">Sacramento March 5th General Assembly</h1>
 <p>On March Fifth, students from all over California will converge on Sacramento to
 protest budget cuts. We will come by the bus-load
@@ -107,7 +107,7 @@ Your browser does not support Iframes or they are turned off.
 </iframe>
 </div>
 <br>
-<a href="http://www.occupytogether.org" target="_blank"><img style="width: 624px; height: 99px;" src="OT_Bnr1.jpg"></a>
+<a href="http://www.occupytogether.org" target="_blank"><img style="width: 624px; height: 99px;" src="http://www.occupytogether.org/posters/OT_Bnr1.jpg"></a>
 <p id='contactp' class='wborder'>
 contact @
 <br/>
@@ -120,7 +120,7 @@ Peace Love Anarchy
 </center>
 <style type="text/css">
 body{
-background-image: url('back.jpg');
+background-image: url('http://s17.postimage.org/v0v07uukv/back.jpg');
 background-repeat:no-repeat;
 background-size: 100% 100%;
 }
