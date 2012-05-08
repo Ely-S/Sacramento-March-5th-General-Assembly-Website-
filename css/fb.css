@@ -1,7 +1,1 @@
-#facebooklike{
-left: 5px;
-top: 10px;
-position: fixed;;
-z-index: 1;
-max-width: 292px;
-}
+#facebooklike{left:5px; top:10px; position:fixed; z-index:1; width:60px; height:96.6px; padding:10px; -moz-border-radius:10px; border-radius:10px; background-color:white;opacity:0.95}
